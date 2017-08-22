@@ -1,0 +1,19 @@
+.background{
+  padding:inherit;
+}
+h1{
+  text-align: center;
+}
+
+
+
+.twitterBox{
+  text-align: center;
+  margin-left: 10em;
+  margin-bottom: 10em;
+  margin-right: 10em;
+  margin-top: 10em;
+  color: red;
+
+
+}
